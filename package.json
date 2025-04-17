@@ -1,0 +1,11 @@
+{
+  "name": "digital-asset-stockpile",
+  "version": "1.0.0",
+  "main": "backend/app.js",
+  "scripts": {
+    "start": "node backend/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
